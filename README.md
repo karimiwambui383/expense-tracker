@@ -32,3 +32,4 @@ A JavaScript-first expense tracker with features:
 
 ## Authors
 Built for Veronica / Star — adapt for your portfolio.
+@vee
